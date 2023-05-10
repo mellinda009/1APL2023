@@ -2,3 +2,4 @@
 # Melissa victoria rodrigues ferreira
 ## pensamento computacional
 - colégio Paulo Leminski
+- **prof Drielle**
